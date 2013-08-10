@@ -1,0 +1,16 @@
+#this is the config file for cikuu_spider_today_chemnet.pl
+the output dir:'/home/chemol/shhg_two/data/chemnet'
+
+dbname:'shhg_webpage'
+
+tbname:'sites_pages'
+
+dbuser:'cikuu'
+
+dbpwd:'tQvFIkr93J5wU1CYW5Y5BCSldQrvz6lU'
+
+save in disk:'yes'
+
+channel:'行业动态':'hydt':'http://news.chemnet.com/tag/t------%B7%FA%BB%AF%B9%A4--%D0%D0%D2%B5%B6%AF%CC%AC----%B6%A8%D6%C6%BB%AF%D1%A7%C6%B7--.html'
+
+channel:'企业动态':'qydt':'http://news.chemnet.com/tag/t------%B7%FA%BB%AF%B9%A4--%C6%F3%D2%B5%B6%AF%CC%AC----%B6%A8%D6%C6%BB%AF%D1%A7%C6%B7--.html'
